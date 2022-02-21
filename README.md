@@ -1,9 +1,10 @@
 # **Hello! I'm Dimas Purnomo** 👋 
 
-I'm a Flutter language enthusiast. 
+I'm a Flutter and Swift language enthusiast. 
 
 ##  **Tools** 💻
 * Flutter
+* Swift
 * MySQL
 * HTML, PHP, CSS, Bootstrap
 * Visual Studio Code
