@@ -10,7 +10,7 @@ I'm a Flutter and Swift language enthusiast.
 * Visual Studio Code
 
 ## Get in touch
-- Instagram: https://instagram.com/dimzpur
+- Instagram: https://instagram.com/d1mzpur
 - LinkedIn: https://www.linkedin.com/in/d1mzpur/
 
 ## GitHub Stats 📈 
