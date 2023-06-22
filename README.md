@@ -20,7 +20,7 @@ I'm a Flutter and Swift language enthusiast.
 <a href="https://github.com/d1mzpur">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1mzpur&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="http://www.github.com/arifszn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=d1mzpur&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/d1mzpur"><img src="https://github-readme-streak-stats.herokuapp.com/?user=d1mzpur&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  
 
 <!--
